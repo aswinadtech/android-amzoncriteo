@@ -43,7 +43,7 @@ public class regressionTestCases extends TwcAndroidBaseTest {
 	/*
 	 * This method validates Amazon SDK version
 	 */
-	@Test(priority = 0, enabled = true)
+	@Test(priority = 1, enabled = true)
 	@Description("Validating 'adsdk' parameter of Amazon aax call ")
 	public void Validate_Amazon_SDK_adsdk_parameter() throws Exception {
 		System.out.println("==============================================");
