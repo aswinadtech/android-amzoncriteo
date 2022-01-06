@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="12" total="34" passed="22">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25461" started-at="2022-01-06T15:25:00Z" finished-at="2022-01-06T15:25:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25461" started-at="2022-01-06T15:25:00Z" finished-at="2022-01-06T15:25:25Z">
+      <class name="twc.Regression.TestCases.regressionTestCases">
+        <test-method status="PASS" signature="Validate_Amazon_SDK_adsdk_parameter()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@674aa626]" name="Validate_Amazon_SDK_adsdk_parameter" duration-ms="3277" started-at="2022-01-06T20:55:00Z" finished-at="2022-01-06T20:55:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_Amazon_SDK_adsdk_parameter -->
+        <test-method status="PASS" signature="Verifying_amazon_slotId_for_AlertsCenter()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@674aa626]" name="Verifying_amazon_slotId_for_AlertsCenter" duration-ms="610" started-at="2022-01-06T20:55:03Z" finished-at="2022-01-06T20:55:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verifying_amazon_slotId_for_AlertsCenter -->
+        <test-method status="PASS" signature="Verify_amazon_aaxSlot_feed1_adCall()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@674aa626]" name="Verify_amazon_aaxSlot_feed1_adCall" duration-ms="329" started-at="2022-01-06T20:55:04Z" finished-at="2022-01-06T20:55:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_amazon_aaxSlot_feed1_adCall -->
+        <test-method status="PASS" signature="Verify_amazon_aaxSlot_feed2_adcall()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@674aa626]" name="Verify_amazon_aaxSlot_feed2_adcall" duration-ms="329" started-at="2022-01-06T20:55:04Z" finished-at="2022-01-06T20:55:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_amazon_aaxSlot_feed2_adcall -->
+        <test-method status="PASS" signature="Smoke_Test_amazon_aaxSlot_feed3_adcall()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@674aa626]" name="Smoke_Test_amazon_aaxSlot_feed3_adcall" duration-ms="451" started-at="2022-01-06T20:55:05Z" finished-at="2022-01-06T20:55:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_amazon_aaxSlot_feed3_adcall -->
+        <test-method status="PASS" signature="Verify_amazon_aaxSlot_feed4_adcall()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@674aa626]" name="Verify_amazon_aaxSlot_feed4_adcall" duration-ms="376" started-at="2022-01-06T20:55:05Z" finished-at="2022-01-06T20:55:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_amazon_aaxSlot_feed4_adcall -->
+        <test-method status="PASS" signature="Verify_amazon_aaxSlot_feed5_adcall()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@674aa626]" name="Verify_amazon_aaxSlot_feed5_adcall" duration-ms="373" started-at="2022-01-06T20:55:05Z" finished-at="2022-01-06T20:55:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_amazon_aaxSlot_feed5_adcall -->
+        <test-method status="PASS" signature="Verify_amazon_aax_mapsdetails_adcall()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@674aa626]" name="Verify_amazon_aax_mapsdetails_adcall" duration-ms="727" started-at="2022-01-06T20:55:06Z" finished-at="2022-01-06T20:55:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_amazon_aax_mapsdetails_adcall -->
+        <test-method status="PASS" signature="Smoke_Test_amazon_aax_today_deatailcard()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@674aa626]" name="Smoke_Test_amazon_aax_today_deatailcard" duration-ms="370" started-at="2022-01-06T20:55:07Z" finished-at="2022-01-06T20:55:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_amazon_aax_today_deatailcard -->
+        <test-method status="PASS" signature="Smoke_Test_amazon_aax_Airquality_deatailcard()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@674aa626]" name="Smoke_Test_amazon_aax_Airquality_deatailcard" duration-ms="489" started-at="2022-01-06T20:55:07Z" finished-at="2022-01-06T20:55:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_amazon_aax_Airquality_deatailcard -->
+        <test-method status="PASS" signature="Smoke_Test_Verify_amazon_SlotId_Running_Bigbanner_ad()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@674aa626]" name="Smoke_Test_Verify_amazon_SlotId_Running_Bigbanner_ad" duration-ms="714" started-at="2022-01-06T20:55:07Z" finished-at="2022-01-06T20:55:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_Verify_amazon_SlotId_Running_Bigbanner_ad -->
+        <test-method status="PASS" signature="Verify_amazon_SlotId_Boat_Beach_Bigbanner_ad()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@674aa626]" name="Verify_amazon_SlotId_Boat_Beach_Bigbanner_ad" duration-ms="359" started-at="2022-01-06T20:55:08Z" finished-at="2022-01-06T20:55:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_amazon_SlotId_Boat_Beach_Bigbanner_ad -->
+        <test-method status="PASS" signature="Verify_amazon_SlotId_outdoor_details()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@674aa626]" name="Verify_amazon_SlotId_outdoor_details" duration-ms="365" started-at="2022-01-06T20:55:08Z" finished-at="2022-01-06T20:55:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_amazon_SlotId_outdoor_details -->
+        <test-method status="PASS" signature="Verify_amazon_aax_preload_Hourly_details_adcall()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@674aa626]" name="Verify_amazon_aax_preload_Hourly_details_adcall" duration-ms="358" started-at="2022-01-06T20:55:09Z" finished-at="2022-01-06T20:55:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_amazon_aax_preload_Hourly_details_adcall -->
+        <test-method status="PASS" signature="Verify_amazon_aax_preload_Hourly1_details_adcall()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@674aa626]" name="Verify_amazon_aax_preload_Hourly1_details_adcall" duration-ms="330" started-at="2022-01-06T20:55:09Z" finished-at="2022-01-06T20:55:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_amazon_aax_preload_Hourly1_details_adcall -->
+        <test-method status="PASS" signature="Verify_amazon_aax_preload_Hourly2_details_adcall()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@674aa626]" name="Verify_amazon_aax_preload_Hourly2_details_adcall" duration-ms="317" started-at="2022-01-06T20:55:10Z" finished-at="2022-01-06T20:55:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_amazon_aax_preload_Hourly2_details_adcall -->
+        <test-method status="PASS" signature="Verify_amazon_aax_preload_Hourly3_details_adcall()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@674aa626]" name="Verify_amazon_aax_preload_Hourly3_details_adcall" duration-ms="341" started-at="2022-01-06T20:55:10Z" finished-at="2022-01-06T20:55:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_amazon_aax_preload_Hourly3_details_adcall -->
+        <test-method status="PASS" signature="Verify_AlertCenter_ad_call_amazon_bid_id()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@674aa626]" name="Verify_AlertCenter_ad_call_amazon_bid_id" duration-ms="845" started-at="2022-01-06T20:55:10Z" finished-at="2022-01-06T20:55:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_AlertCenter_ad_call_amazon_bid_id -->
+        <test-method status="PASS" signature="Smoke_Test_amazon_aax_Daily_details_Day1_adcall()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@674aa626]" name="Smoke_Test_amazon_aax_Daily_details_Day1_adcall" duration-ms="336" started-at="2022-01-06T20:55:11Z" finished-at="2022-01-06T20:55:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_amazon_aax_Daily_details_Day1_adcall -->
+        <test-method status="PASS" signature="Verify_Feed1_ad_call_amazon_bid_id()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@674aa626]" name="Verify_Feed1_ad_call_amazon_bid_id" duration-ms="856" started-at="2022-01-06T20:55:11Z" finished-at="2022-01-06T20:55:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Feed1_ad_call_amazon_bid_id -->
+        <test-method status="PASS" signature="Verify_Feed2_ad_call_amazon_bid_id()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@674aa626]" name="Verify_Feed2_ad_call_amazon_bid_id" duration-ms="889" started-at="2022-01-06T20:55:12Z" finished-at="2022-01-06T20:55:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Feed2_ad_call_amazon_bid_id -->
+        <test-method status="FAIL" signature="Verify_Feed3_ad_call_amazon_bid_id()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@674aa626]" name="Verify_Feed3_ad_call_amazon_bid_id" duration-ms="1009" started-at="2022-01-06T20:55:13Z" finished-at="2022-01-06T20:55:14Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Ad Call :iu=%2F7646%2Fapp_android_us%2Fdb_display%2Ffeed%2Ffeed_3 not contains the Custom Parameter: amzn_b, hence Custom Parameter: amzn_b validation failed]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Ad Call :iu=%2F7646%2Fapp_android_us%2Fdb_display%2Ffeed%2Ffeed_3 not contains the Custom Parameter: amzn_b, hence Custom Parameter: amzn_b validation failed
+	at org.testng.Assert.fail(Assert.java:94)
+	at twc.Regression.General.Functions.validate_aax_bid_value_with_gampad_bid_value(Functions.java:5538)
+	at twc.Regression.TestCases.regressionTestCases.Verify_Feed3_ad_call_amazon_bid_id(regressionTestCases.java:294)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:659)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:845)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1153)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:771)
+	at org.testng.TestRunner.run(TestRunner.java:621)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:357)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:352)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:310)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:259)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1199)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1124)
+	at org.testng.TestNG.run(TestNG.java:1032)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Feed3_ad_call_amazon_bid_id -->
+        <test-method status="FAIL" signature="Verify_Feed4_ad_call_amazon_bid_id()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@674aa626]" name="Verify_Feed4_ad_call_amazon_bid_id" duration-ms="1101" started-at="2022-01-06T20:55:14Z" finished-at="2022-01-06T20:55:15Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Ad Call :iu=%2F7646%2Fapp_android_us%2Fdb_display%2Ffeed%2Ffeed_4 not contains the Custom Parameter: amzn_b, hence Custom Parameter: amzn_b validation failed]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Ad Call :iu=%2F7646%2Fapp_android_us%2Fdb_display%2Ffeed%2Ffeed_4 not contains the Custom Parameter: amzn_b, hence Custom Parameter: amzn_b validation failed
+	at org.testng.Assert.fail(Assert.java:94)
+	at twc.Regression.General.Functions.validate_aax_bid_value_with_gampad_bid_value(Functions.java:5538)
+	at twc.Regression.TestCases.regressionTestCases.Verify_Feed4_ad_call_amazon_bid_id(regressionTestCases.java:305)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:659)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:845)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1153)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:771)
+	at org.testng.TestRunner.run(TestRunner.java:621)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:357)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:352)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:310)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:259)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1199)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1124)
+	at org.testng.TestNG.run(TestNG.java:1032)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Feed4_ad_call_amazon_bid_id -->
+        <test-method status="FAIL" signature="Verify_Feed5_ad_call_amazon_bid_id()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@674aa626]" name="Verify_Feed5_ad_call_amazon_bid_id" duration-ms="887" started-at="2022-01-06T20:55:15Z" finished-at="2022-01-06T20:55:16Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Ad Call :iu=%2F7646%2Fapp_android_us%2Fdb_display%2Ffeed%2Ffeed_5 not contains the Custom Parameter: amzn_b, hence Custom Parameter: amzn_b validation failed]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Ad Call :iu=%2F7646%2Fapp_android_us%2Fdb_display%2Ffeed%2Ffeed_5 not contains the Custom Parameter: amzn_b, hence Custom Parameter: amzn_b validation failed
+	at org.testng.Assert.fail(Assert.java:94)
+	at twc.Regression.General.Functions.validate_aax_bid_value_with_gampad_bid_value(Functions.java:5538)
+	at twc.Regression.TestCases.regressionTestCases.Verify_Feed5_ad_call_amazon_bid_id(regressionTestCases.java:316)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:659)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:845)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1153)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:771)
+	at org.testng.TestRunner.run(TestRunner.java:621)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:357)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:352)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:310)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:259)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1199)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1124)
+	at org.testng.TestNG.run(TestNG.java:1032)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Feed5_ad_call_amazon_bid_id -->
+        <test-method status="PASS" signature="Verify_Map_Details_ad_call_amazon_bid_id()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@674aa626]" name="Verify_Map_Details_ad_call_amazon_bid_id" duration-ms="880" started-at="2022-01-06T20:55:16Z" finished-at="2022-01-06T20:55:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Map_Details_ad_call_amazon_bid_id -->
+        <test-method status="FAIL" signature="Verify_Today_Details_ad_call_amazon_bid_id()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@674aa626]" name="Verify_Today_Details_ad_call_amazon_bid_id" duration-ms="896" started-at="2022-01-06T20:55:17Z" finished-at="2022-01-06T20:55:18Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Ad Call :iu=%2F7646%2Fapp_android_us%2Fdb_display%2Fdetails%2Ftoday not contains the Custom Parameter: amzn_b, hence Custom Parameter: amzn_b validation failed]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Ad Call :iu=%2F7646%2Fapp_android_us%2Fdb_display%2Fdetails%2Ftoday not contains the Custom Parameter: amzn_b, hence Custom Parameter: amzn_b validation failed
+	at org.testng.Assert.fail(Assert.java:94)
+	at twc.Regression.General.Functions.validate_aax_bid_value_with_gampad_bid_value(Functions.java:5538)
+	at twc.Regression.TestCases.regressionTestCases.Verify_Today_Details_ad_call_amazon_bid_id(regressionTestCases.java:338)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:659)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:845)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1153)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:771)
+	at org.testng.TestRunner.run(TestRunner.java:621)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:357)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:352)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:310)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:259)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1199)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1124)
+	at org.testng.TestNG.run(TestNG.java:1032)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Today_Details_ad_call_amazon_bid_id -->
+        <test-method status="FAIL" signature="Verify_AQ_Details_ad_call_amazon_bid_id()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@674aa626]" name="Verify_AQ_Details_ad_call_amazon_bid_id" duration-ms="842" started-at="2022-01-06T20:55:18Z" finished-at="2022-01-06T20:55:19Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Ad Call :iu=%2F7646%2Fapp_android_us%2Fdb_display%2Fcontent%2Faq not contains the Custom Parameter: amzn_b, hence Custom Parameter: amzn_b validation failed]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Ad Call :iu=%2F7646%2Fapp_android_us%2Fdb_display%2Fcontent%2Faq not contains the Custom Parameter: amzn_b, hence Custom Parameter: amzn_b validation failed
+	at org.testng.Assert.fail(Assert.java:94)
+	at twc.Regression.General.Functions.validate_aax_bid_value_with_gampad_bid_value(Functions.java:5538)
+	at twc.Regression.TestCases.regressionTestCases.Verify_AQ_Details_ad_call_amazon_bid_id(regressionTestCases.java:348)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:659)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:845)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1153)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:771)
+	at org.testng.TestRunner.run(TestRunner.java:621)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:357)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:352)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:310)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:259)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1199)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1124)
+	at org.testng.TestNG.run(TestNG.java:1032)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_AQ_Details_ad_call_amazon_bid_id -->
+        <test-method status="FAIL" signature="Verify_Health_BoatAndBeach_Details_ad_call_amazon_bid_id()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@674aa626]" name="Verify_Health_BoatAndBeach_Details_ad_call_amazon_bid_id" duration-ms="909" started-at="2022-01-06T20:55:19Z" finished-at="2022-01-06T20:55:20Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Ad Call :iu=%2F7646%2Fapp_android_us%2Fdb_display%2Fcontent%2Fboat_beach not contains the Custom Parameter: amzn_b, hence Custom Parameter: amzn_b validation failed]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Ad Call :iu=%2F7646%2Fapp_android_us%2Fdb_display%2Fcontent%2Fboat_beach not contains the Custom Parameter: amzn_b, hence Custom Parameter: amzn_b validation failed
+	at org.testng.Assert.fail(Assert.java:94)
+	at twc.Regression.General.Functions.validate_aax_bid_value_with_gampad_bid_value(Functions.java:5538)
+	at twc.Regression.TestCases.regressionTestCases.Verify_Health_BoatAndBeach_Details_ad_call_amazon_bid_id(regressionTestCases.java:360)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:659)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:845)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1153)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:771)
+	at org.testng.TestRunner.run(TestRunner.java:621)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:357)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:352)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:310)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:259)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1199)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1124)
+	at org.testng.TestNG.run(TestNG.java:1032)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Health_BoatAndBeach_Details_ad_call_amazon_bid_id -->
+        <test-method status="FAIL" signature="Verify_Health_Running_Details_ad_call_amazon_bid_id()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@674aa626]" name="Verify_Health_Running_Details_ad_call_amazon_bid_id" duration-ms="856" started-at="2022-01-06T20:55:20Z" finished-at="2022-01-06T20:55:21Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Ad Call :iu=%2F7646%2Fapp_android_us%2Fdb_display%2Fcontent%2Frunning not contains the Custom Parameter: amzn_b, hence Custom Parameter: amzn_b validation failed]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Ad Call :iu=%2F7646%2Fapp_android_us%2Fdb_display%2Fcontent%2Frunning not contains the Custom Parameter: amzn_b, hence Custom Parameter: amzn_b validation failed
+	at org.testng.Assert.fail(Assert.java:94)
+	at twc.Regression.General.Functions.validate_aax_bid_value_with_gampad_bid_value(Functions.java:5538)
+	at twc.Regression.TestCases.regressionTestCases.Verify_Health_Running_Details_ad_call_amazon_bid_id(regressionTestCases.java:372)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:659)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:845)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1153)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:771)
+	at org.testng.TestRunner.run(TestRunner.java:621)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:357)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:352)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:310)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:259)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1199)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1124)
+	at org.testng.TestNG.run(TestNG.java:1032)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Health_Running_Details_ad_call_amazon_bid_id -->
+        <test-method status="FAIL" signature="Verify_amazon_aax_SeasonalHub_details_adcall()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@674aa626]" name="Verify_amazon_aax_SeasonalHub_details_adcall" duration-ms="1176" started-at="2022-01-06T20:55:21Z" finished-at="2022-01-06T20:55:22Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Ad Call :iu=%2F7646%2Fapp_android_us%2Fdb_display%2Fdetails%2Fseason not contains the Custom Parameter: amzn_b, hence Custom Parameter: amzn_b validation failed]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Ad Call :iu=%2F7646%2Fapp_android_us%2Fdb_display%2Fdetails%2Fseason not contains the Custom Parameter: amzn_b, hence Custom Parameter: amzn_b validation failed
+	at org.testng.Assert.fail(Assert.java:94)
+	at twc.Regression.General.Functions.validate_aax_bid_value_with_gampad_bid_value(Functions.java:5538)
+	at twc.Regression.TestCases.regressionTestCases.Verify_amazon_aax_SeasonalHub_details_adcall(regressionTestCases.java:383)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:659)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:845)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1153)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:771)
+	at org.testng.TestRunner.run(TestRunner.java:621)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:357)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:352)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:310)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:259)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1199)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1124)
+	at org.testng.TestNG.run(TestNG.java:1032)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_amazon_aax_SeasonalHub_details_adcall -->
+        <test-method status="FAIL" signature="Verify_Hourly1_Details_ad_call_amazon_bid_id()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@674aa626]" name="Verify_Hourly1_Details_ad_call_amazon_bid_id" duration-ms="1073" started-at="2022-01-06T20:55:22Z" finished-at="2022-01-06T20:55:23Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Ad Call :iu=%2F7646%2Fapp_android_us%2Fdb_display%2Fdetails%2Fhourly1 not found in charles session, hence Custom Parameter: amzn_b validation failed]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Ad Call :iu=%2F7646%2Fapp_android_us%2Fdb_display%2Fdetails%2Fhourly1 not found in charles session, hence Custom Parameter: amzn_b validation failed
+	at org.testng.Assert.fail(Assert.java:94)
+	at twc.Regression.General.Functions.validate_aax_bid_value_with_gampad_bid_value(Functions.java:5531)
+	at twc.Regression.TestCases.regressionTestCases.Verify_Hourly1_Details_ad_call_amazon_bid_id(regressionTestCases.java:394)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:659)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:845)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1153)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:771)
+	at org.testng.TestRunner.run(TestRunner.java:621)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:357)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:352)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:310)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:259)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1199)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1124)
+	at org.testng.TestNG.run(TestNG.java:1032)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Hourly1_Details_ad_call_amazon_bid_id -->
+        <test-method status="FAIL" signature="Verify_Hourly2_Details_ad_call_amazon_bid_id()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@674aa626]" name="Verify_Hourly2_Details_ad_call_amazon_bid_id" duration-ms="837" started-at="2022-01-06T20:55:23Z" finished-at="2022-01-06T20:55:24Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Ad Call :iu=%2F7646%2Fapp_android_us%2Fdb_display%2Fdetails%2Fhourly2 not found in charles session, hence Custom Parameter: amzn_b validation failed]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Ad Call :iu=%2F7646%2Fapp_android_us%2Fdb_display%2Fdetails%2Fhourly2 not found in charles session, hence Custom Parameter: amzn_b validation failed
+	at org.testng.Assert.fail(Assert.java:94)
+	at twc.Regression.General.Functions.validate_aax_bid_value_with_gampad_bid_value(Functions.java:5531)
+	at twc.Regression.TestCases.regressionTestCases.Verify_Hourly2_Details_ad_call_amazon_bid_id(regressionTestCases.java:406)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:659)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:845)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1153)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:771)
+	at org.testng.TestRunner.run(TestRunner.java:621)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:357)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:352)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:310)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:259)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1199)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1124)
+	at org.testng.TestNG.run(TestNG.java:1032)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Hourly2_Details_ad_call_amazon_bid_id -->
+        <test-method status="FAIL" signature="Verify_Hourly3_Details_ad_call_amazon_bid_id()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@674aa626]" name="Verify_Hourly3_Details_ad_call_amazon_bid_id" duration-ms="886" started-at="2022-01-06T20:55:24Z" finished-at="2022-01-06T20:55:24Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Ad Call :iu=%2F7646%2Fapp_android_us%2Fdb_display%2Fdetails%2Fhourly3 not found in charles session, hence Custom Parameter: amzn_b validation failed]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Ad Call :iu=%2F7646%2Fapp_android_us%2Fdb_display%2Fdetails%2Fhourly3 not found in charles session, hence Custom Parameter: amzn_b validation failed
+	at org.testng.Assert.fail(Assert.java:94)
+	at twc.Regression.General.Functions.validate_aax_bid_value_with_gampad_bid_value(Functions.java:5531)
+	at twc.Regression.TestCases.regressionTestCases.Verify_Hourly3_Details_ad_call_amazon_bid_id(regressionTestCases.java:417)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:659)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:845)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1153)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:771)
+	at org.testng.TestRunner.run(TestRunner.java:621)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:357)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:352)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:310)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:259)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1199)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1124)
+	at org.testng.TestNG.run(TestNG.java:1032)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Hourly3_Details_ad_call_amazon_bid_id -->
+        <test-method status="FAIL" signature="Verify_Daily_Details_ad_call_amazon_bid_id()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@674aa626]" name="Verify_Daily_Details_ad_call_amazon_bid_id" duration-ms="967" started-at="2022-01-06T20:55:24Z" finished-at="2022-01-06T20:55:25Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Ad Call :iu=%2F7646%2Fapp_android_us%2Fdb_display%2Fdetails%2F10day_ not found in charles session, hence Custom Parameter: amzn_b validation failed]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Ad Call :iu=%2F7646%2Fapp_android_us%2Fdb_display%2Fdetails%2F10day_ not found in charles session, hence Custom Parameter: amzn_b validation failed
+	at org.testng.Assert.fail(Assert.java:94)
+	at twc.Regression.General.Functions.validate_aax_bid_value_with_gampad_bid_value(Functions.java:5531)
+	at twc.Regression.TestCases.regressionTestCases.Verify_Daily_Details_ad_call_amazon_bid_id(regressionTestCases.java:429)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:659)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:845)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1153)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:771)
+	at org.testng.TestRunner.run(TestRunner.java:621)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:357)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:352)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:310)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:259)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1199)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1124)
+	at org.testng.TestNG.run(TestNG.java:1032)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Daily_Details_ad_call_amazon_bid_id -->
+      </class> <!-- twc.Regression.TestCases.regressionTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
