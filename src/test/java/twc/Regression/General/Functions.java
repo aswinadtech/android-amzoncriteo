@@ -74,7 +74,6 @@ public class Functions extends Drivers{
 	public static int aaxbidErrorCount = 0;
 	public static boolean isaaxgampadcallexists = false;
 	public static boolean nextGenIMadDisplayed = false;
-	public static String videoIUValue = null;
 	public static int aaxcallsResponseSize = 0;
 	static int startY;
 	static int endY;
