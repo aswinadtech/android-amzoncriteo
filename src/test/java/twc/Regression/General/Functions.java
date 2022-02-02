@@ -90,7 +90,7 @@ public class Functions extends Drivers{
 	public static String adType;
 	  public static final int maxTimeout = 60;
 	  public static int criteocallsSize = 0;
-	//  public static String videoIUValue = null;
+	public static String videoIUValue = "iu=%2F7646%2Fapp_android_us%2Fweather%2Fsevere%2Fwinter";
 		public static String iuId = null;
 		public static int criteocallsResponseSize = 0;
 		public static List<String> customParamsList = new ArrayList<String>();
