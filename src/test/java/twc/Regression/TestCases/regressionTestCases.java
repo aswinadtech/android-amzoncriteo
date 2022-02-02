@@ -429,6 +429,17 @@ public class regressionTestCases extends TwcAndroidBaseTest {
 	     Functions.validate_aax_bid_value_with_gampad_bid_value("Daily(10day)", true);
 		}
 		
+	         @Test(priority = 83, enabled = true)
+		@Description("Verify amazon video bid id's")
+		public void Verify_amazon_video_adcall_bid_id() throws Exception {
+			System.out.println("==============================================");
+			System.out.println("=========================== amazon video ad call bid id's ====================");
+			System.out.println("****** amazon video ad call bid id validation Started");
+			logStep("****** amazon video ad call bid id validation Started");
+			
+			Functions.validate_aax_bid_value_with_gampad_bid_value("PreRollVideo",true);
+		}
+		
 		
 		@Test(priority = 162, enabled = true)
 		@Description("Verify Criteo SDK config app call")
